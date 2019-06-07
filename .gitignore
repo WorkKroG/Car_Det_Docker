@@ -1,0 +1,7 @@
+# Local development
+.idea/
+venv/
+
+# Pictures
+*.png
+*.jpg

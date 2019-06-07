@@ -1,0 +1,5 @@
+venv/
+.dockerignore
+.gitignore
+*.jpg
+*.png
