@@ -14,4 +14,4 @@ COPY . /app
 ENV PYTHONPATH =.
 ENV PYTHONBUFFERED = 1
 
-CMD [ "python", "./MainBot.py"]
+CMD [ "python3", "./MainBot.py"]
